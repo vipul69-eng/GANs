@@ -26,7 +26,5 @@ The learning rate of discriminator's optimizer should be less than learning rate
 
 ### Recommended data for GANs
 batch_size = 64
-num_channels = 1
-num_classes = 10
 image_size = 28
 latent_dim = 128
